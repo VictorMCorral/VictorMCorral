@@ -28,7 +28,7 @@ Soy un apasionado de la tecnología y la creatividad. Me encanta combinar el des
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.manuel.corral.ruiz@gmail.com)  
 
 ## 📊 Estadísticas  
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)  
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=VictorMCorral&show_icons=true&theme=radical)  
 
 ---  
 
